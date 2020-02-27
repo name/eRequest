@@ -1,7 +1,6 @@
 A:\Development\eRequest\eRequest\bin\Debug\eRequest.dll.config
 A:\Development\eRequest\eRequest\bin\Debug\eRequest.dll
 A:\Development\eRequest\eRequest\bin\Debug\eRequest.pdb
-A:\Development\eRequest\eRequest\obj\Debug\eRequest.csprojAssemblyReference.cache
 A:\Development\eRequest\eRequest\obj\Debug\eRequest.csproj.CoreCompileInputs.cache
 A:\Development\eRequest\eRequest\obj\Debug\eRequest.dll
 A:\Development\eRequest\eRequest\obj\Debug\eRequest.pdb

@@ -33,7 +33,6 @@ namespace eRequest {
             cryptoStream.FlushFinalBlock();
             byte[] cipherBytes = memoryStream.ToArray();
             memoryStream.Close();
-            cryptoStream.Close();
             string cipherText = Convert.ToBase64String(cipherBytes, 0, cipherBytes.Length);
             return cipherText;
         }
@@ -55,7 +54,6 @@ namespace eRequest {
                 plainText = Encoding.ASCII.GetString(plainBytes, 0, plainBytes.Length);
             } finally {
                 memoryStream.Close();
-                cryptoStream.Close();
             }
             return plainText;
         }
