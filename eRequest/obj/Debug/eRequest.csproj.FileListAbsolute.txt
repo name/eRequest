@@ -5,3 +5,6 @@ A:\Development\eRequest\eRequest\obj\Debug\eRequest.csprojAssemblyReference.cach
 A:\Development\eRequest\eRequest\obj\Debug\eRequest.csproj.CoreCompileInputs.cache
 A:\Development\eRequest\eRequest\obj\Debug\eRequest.dll
 A:\Development\eRequest\eRequest\obj\Debug\eRequest.pdb
+A:\Development\eRequest\eRequest\bin\Debug\Newtonsoft.Json.dll
+A:\Development\eRequest\eRequest\bin\Debug\Newtonsoft.Json.xml
+A:\Development\eRequest\eRequest\obj\Debug\eRequest.csproj.CopyComplete
