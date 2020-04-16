@@ -7,3 +7,13 @@ A:\Development\eRequest\eRequest\obj\Debug\eRequest.pdb
 A:\Development\eRequest\eRequest\bin\Debug\Newtonsoft.Json.dll
 A:\Development\eRequest\eRequest\bin\Debug\Newtonsoft.Json.xml
 A:\Development\eRequest\eRequest\obj\Debug\eRequest.csproj.CopyComplete
+D:\Development\eRequest\eRequest\bin\Debug\eRequest.dll.config
+D:\Development\eRequest\eRequest\bin\Debug\eRequest.dll
+D:\Development\eRequest\eRequest\bin\Debug\eRequest.pdb
+D:\Development\eRequest\eRequest\bin\Debug\Newtonsoft.Json.dll
+D:\Development\eRequest\eRequest\bin\Debug\Newtonsoft.Json.xml
+D:\Development\eRequest\eRequest\obj\Debug\eRequest.csprojAssemblyReference.cache
+D:\Development\eRequest\eRequest\obj\Debug\eRequest.csproj.CoreCompileInputs.cache
+D:\Development\eRequest\eRequest\obj\Debug\eRequest.csproj.CopyComplete
+D:\Development\eRequest\eRequest\obj\Debug\eRequest.dll
+D:\Development\eRequest\eRequest\obj\Debug\eRequest.pdb

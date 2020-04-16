@@ -1,0 +1,9 @@
+D:\Development\eRequest\eRequest\bin\Release\eRequest.dll.config
+D:\Development\eRequest\eRequest\bin\Release\eRequest.dll
+D:\Development\eRequest\eRequest\bin\Release\eRequest.pdb
+D:\Development\eRequest\eRequest\bin\Release\Newtonsoft.Json.dll
+D:\Development\eRequest\eRequest\bin\Release\Newtonsoft.Json.xml
+D:\Development\eRequest\eRequest\obj\Release\eRequest.csproj.CoreCompileInputs.cache
+D:\Development\eRequest\eRequest\obj\Release\eRequest.csproj.CopyComplete
+D:\Development\eRequest\eRequest\obj\Release\eRequest.dll
+D:\Development\eRequest\eRequest\obj\Release\eRequest.pdb
